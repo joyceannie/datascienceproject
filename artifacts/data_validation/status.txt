@@ -1,0 +1,12 @@
+Validation status for column = fixed acidity: True
+Validation status for column = volatile acidity: True
+Validation status for column = citric acid: True
+Validation status for column = residual sugar: True
+Validation status for column = chlorides: True
+Validation status for column = free sulfur dioxide: True
+Validation status for column = total sulfur dioxide: True
+Validation status for column = density: True
+Validation status for column = pH: True
+Validation status for column = sulphates: True
+Validation status for column = alcohol: True
+Validation status for column = quality: True
