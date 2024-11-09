@@ -10,11 +10,11 @@
 
 ## Workflows
 
-1. Update config.yaml
-2. Update schema.yaml
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
+1. Update `config/config.yaml`
+2. Update `schema.yaml`
+3. Update `params.yaml`
+4. Update the entity in `src/entity/config_entity.py`
+5. Update the configuration manager in `src/config/configuration.py`
+6. Update the components in `src/components`
+7. Update the pipeline in `src\pipeline`
+8. Update `main.py`
